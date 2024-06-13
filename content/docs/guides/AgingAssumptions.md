@@ -14,6 +14,9 @@ title: "Aging Assumptions"
 		a. data are disproportioned by the healthier people because sick people will die soon or lose the data (survivor bias, attrition bias)
 	3. Norm versus diagnostic norm -Memory clinic data
 		a. norms not only applied to the population but also to a different sample
+
+
 <img width="679" alt="image" src="https://github.com/crystalbell98/doc2/assets/93226225/5ad53a49-895a-44ad-adfb-af3d54887882">
+
 
 Be skeptical and think what is the assumptions for cross-sectional study. It is the average of the average. Research question is when and how, cross-sectional often ignoring the when.
